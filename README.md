@@ -1,2 +1,2 @@
-# mjs.moe
+# Personal-Site
 Personal website
