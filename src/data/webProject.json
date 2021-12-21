@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "metahvurse.exp",
-            "link": "https://metahvurse.exp",
+            "link": "Link Coming Soon",
             "tech": [
                 "Javascript",
                 "C#",
@@ -10,20 +10,6 @@
                 "Blender"
             ],
             "description": "2D parody webgame about the metaverse where the user collects NFT and enter new floors in this free-to-play web rogue-like game!"
-        },
-        {
-            "name": "Lubglub's Market",
-            "link": "https://vr.lubglub.shop",
-            "tech": [
-                "C#",
-                "JavaScript",
-                "Express",
-                "Shopify",
-                "Unity3D",
-                "Blender",
-                "GIMP"
-            ],
-            "description": "Experiemental web VR shopping experience where shoppers can interact, compare to real life dimensions, and buy items from Lubglub's Market"
-        }     
+        }
     ]
 }
