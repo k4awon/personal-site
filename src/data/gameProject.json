@@ -2,14 +2,8 @@
     "projects": [
         {
             "name": "Science Party Y2K [Under Construction]",
-            "mainImage": "place main image here",
             "link": "under-development check soon!",
-            "tech": [
-                "C#",
-                "Unity3D",
-                "Blender",
-                "GIMP"
-            ],
+            "image": "Image coming soon!",
             "description": "Play as a Hector Mill, and shoot + create different types of living bullets in this puzzle + SHUMP! Can you prepare the party before the summit is finished?"
         }
     ]

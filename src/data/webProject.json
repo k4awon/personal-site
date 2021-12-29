@@ -3,13 +3,15 @@
         {
             "name": "metahvurse.exp",
             "link": "Link Coming Soon",
-            "tech": [
-                "Javascript",
-                "C#",
-                "Unity3D",
-                "Blender"
-            ],
+            "image": "Image Coming Soon",
             "description": "2D parody webgame about the metaverse where the user collects NFT and enter new floors in this free-to-play web rogue-like game!"
+        },
+        {
+
+            "name": "k4a1.com",
+            "link": "Link Coming Soon",
+            "image": "Image Coming Soon",
+            "description": "Personal + portfolio website for web + game related projects"
         }
     ]
 }
