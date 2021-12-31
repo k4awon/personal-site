@@ -11,7 +11,7 @@ const WebProject = () => {
                           <div>
                               {project.name}
                           </div>
-                          <div className="">
+                          <div>
                               {project.description}
                           </div>
                       </div>
